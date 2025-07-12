@@ -1,12 +1,32 @@
-- 👋 Hi, I’m @long-61
-- 👀 I’m interested in becoming an entry level programmer
-- 🌱 I’m currently learning Python and some html
-- 💞️ I’m looking to collaborate on just about anything
-- 📫 How to reach me gnome61@yahoo.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m Gary Long (@long-61)
 
-<!---
-long-61/long-61 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 Aspiring Entry-Level Programmer  
+I'm currently learning **JavaScript**, **Node.js**, **HTML**, and **Python** — and building my very first full-stack apps!
+
+---
+
+### 🧠 Current Focus
+- 🔧 Building practical projects like my [Quote Generator](https://github.com/long-61/quote-generator-phase3)
+- 🌐 Learning full-stack development (frontend + backend)
+- 🧪 Experimenting with Git, GitHub, APIs, and Express servers
+
+---
+
+### 🤝 Let’s Connect & Collaborate
+I'm open to:
+- Beginner-friendly collaborations
+- Frontend/backend practice projects
+- Learning from others in the dev community!
+
+📫 Reach me: **gnome61@yahoo.com**
+
+---
+
+### ⚡ Fun Facts
+- I love learning through small wins and daily challenges
+- I believe “code is poetry”
+- I celebrate every working script with 🎉 emojis
+
+---
+
+> *"Start where you are. Use what you have. Do what you can."* — Arthur Ashe
